@@ -5,5 +5,3 @@ pass:s01286166979
 --https://somee.com/
 User:coongphus
 pass:P@ssWord123
-
---link github: https://github.com/FushFush0101/QuanLyBanHang
